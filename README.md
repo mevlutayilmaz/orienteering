@@ -51,7 +51,7 @@ Projeyi yerel olarak kurmak için şu adımları izleyin:
 
 2. **Proje dizinine gidin:**
    ```bash
-   cd orienteering-app
+   cd orienteering
 
 3. **Bağımlılıkları yükleyin:**
    ```bash
